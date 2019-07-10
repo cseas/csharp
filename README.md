@@ -8,7 +8,10 @@ You need the Mono framework for running C# programs on Ubuntu (linux). Installat
 ## Execution 
 
 Use the following commands to execute C# programs:
+
 ```sh
 csc hello.cs
 mono hello.exe
 ```
+
+Complete instructions available in the [Mono Basics](https://www.mono-project.com/docs/getting-started/mono-basics/) guide.
